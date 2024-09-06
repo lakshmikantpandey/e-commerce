@@ -14,7 +14,7 @@
     <link href="https://fonts.bunny.net/css?family=Nunito" rel="stylesheet">
 
     <!-- Scripts -->
-    @vite(['resources/sass/app.scss', 'resources/js/app.js'])
+    @vite(['resources/scss/app.scss', 'resources/js/app.js'])
 </head>
 <body>
     <div id="app">
@@ -75,6 +75,9 @@
         <main class="py-4">
             @yield('content')
         </main>
+
+        <!-- Footer -->
+        @include('pages.includes.footer')
     </div>
 </body>
 </html>
