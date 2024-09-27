@@ -37,7 +37,7 @@
 	</div>
 </section>
 
-<!-- <section class="ftco-section">
+<section class="ftco-section">
 	<div class="container">
 		<div class="row no-gutters ftco-services">
 			<div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
@@ -483,7 +483,7 @@
 			</div>
 		</div>
 	</div>
-</section> -->
+</section>
 
 <!-- <hr>
 
